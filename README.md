@@ -23,3 +23,4 @@ gcc main.c -o student
 
 Run:
 ./student
+Aouther: Karanvir Singh
